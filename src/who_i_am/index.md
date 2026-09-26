@@ -2,8 +2,10 @@
 
 > [!TIP]
 > Visit these links for more on/by me!
-> 1. <i class="fa-brands fa-github"></i> [GitHub](https://github.com/tobio0310)
-> 2. <i class="fa-solid fa-user"></i> [Gravatar](https://gravatar.com/tobio0310)
+> 1. <i class="fab fa-github"></i> [GitHub](https://github.com/tobio0310)
+> 2. <i class="fas fa-user"></i> [Gravatar](https://gravatar.com/tobio0310)
+> 3. <i class="fab fa-matsodon></i> [Matsodon](https://mastodon.social/@tobio0310)
+> 4. <i class="fas fa-comments"></i> [Matrix](https://matrix.to/#/@toby:tobysch.eu)
 
 I am a Software Development student at the IT University of Copenhagen, doing a lot of different programming work that I find interesting. My work online primarily focuses on deepening my skill-set, taking on new opportunities, and developing new relations cross borders. If my interests are piqued, it is likely that I will attempt the challenge.
 
